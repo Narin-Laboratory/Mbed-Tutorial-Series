@@ -1,4 +1,4 @@
-# LED Blinking using Arm Mbed
+# Blinking an LED using Arm Mbed
 
 ### Blinking Led - variation 1
 
