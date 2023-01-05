@@ -3,4 +3,4 @@
 ### Blinking Led - variation 1
 
 Please find the tutorial:
-https://youtu.be/aoPJk0KUmKA
+https://youtu.be/KBiD8o2MIHU
